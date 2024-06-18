@@ -88,11 +88,11 @@
 <h2 align="left">My Github Stats:</h2>
 
 ###
+<center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methminabinara&theme=radical&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methminabinara&theme=dark&layout=compact)
+![Methmina's GitHub stats](https://github-readme-stats.vercel.app/api?username=methminabinara&theme=radical&show_icons=true)
 
-![Methmina's GitHub stats](https://github-readme-stats.vercel.app/api?username=methminabinara&theme=dark&show_icons=true)
+![Methmina's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=methminabinara&theme=radical&show_icons=true)
 
-![Methmina's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=methminabinara&theme=dark&show_icons=true)
-
-
+</center>
